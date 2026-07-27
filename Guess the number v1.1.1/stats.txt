@@ -1,0 +1,5 @@
+Games=1
+Wins=1
+Losses=0
+
+Best=2
